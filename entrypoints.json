@@ -1,0 +1,22 @@
+{
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/runtime.197587ce.js",
+        "/394.c8582470.js",
+        "/application.f85fff14.js"
+      ],
+      "css": [
+        "/application.9a218cdf.css"
+      ]
+    },
+    "style": {
+      "js": [
+        "/runtime.197587ce.js"
+      ],
+      "css": [
+        "/style.79379acf.css"
+      ]
+    }
+  }
+}
